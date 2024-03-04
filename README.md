@@ -31,6 +31,7 @@ This library offers a simple yet flexible way to manage football game scores. It
 - REST API Integration: Extend the library with a RESTful service layer to allow remote management and querying of game scores, making it suitable for web applications. 
 - Customizable Sorting: Provide options for customized sorting criteria in the game summary to accommodate different use cases or preferences.
 - Add integration tests
+- Extend the data model: Split Game class into several classes with if more attibutes would be needed/added
 
 ## Instructions to Run
 
